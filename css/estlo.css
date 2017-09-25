@@ -1,0 +1,22 @@
+.header{
+    background-color: green;
+    text-align:center;
+    padding:20px;
+    margin-bottom:10px;
+}
+
+body{
+    font-family: 'Asap Condensed', sans-serif;
+}
+nav{
+    height:100%;
+    margin-top:10px;
+}
+nav{
+    display: inline;
+    margin:0 8px; /* primeiro valor (em cima e embaixo) segundo valor (esquerda e direita) - valores no sentido horário começando no topo*/
+    padding-top:4px;   
+}
+body{
+    background-color:#B0C4DE;
+}
